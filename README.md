@@ -1,2 +1,5 @@
-# Repositório para o desafio de git e github da DIO
+# Repositório do Desafio de Projeto Git & Github da DIO
 Desafio de projeto da plataforma DIO.
+
+## Links úteis
+[Guia de Markdown](https://www.markdownguide.org/getting-started/)
