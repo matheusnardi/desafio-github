@@ -1,5 +1,7 @@
 # Desafio de Projeto Git & Github da DIO
 Repositório criado para o Desafio de projeto da plataforma DIO.
 
+Todas as anotações feitas durante o Bootcamp Spread Fullstack.
+
 ## Links úteis
-[Guia de Markdown](https://www.markdownguide.org/getting-started/)
+[Meu Perfil DIO](https://web.dio.me/users/matheuseduardonardi)
